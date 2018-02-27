@@ -1,4 +1,4 @@
-package exercise;
+package recursion;
 
 import org.junit.Test;
 
