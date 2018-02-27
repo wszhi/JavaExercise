@@ -1,4 +1,4 @@
-package array;
+package exercise;
 
 import java.util.Stack;
 
