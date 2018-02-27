@@ -10,7 +10,7 @@ import static org.junit.Assert.assertTrue;
 
 public class printSubArrayTest {
     @Test
-    public void name() throws Exception {
+    public void should_contains_all_sub_array() throws Exception {
         printSubArray printSubArray = new printSubArray();
         Integer[] testArray = {10, 20, 30};
         List list = printSubArray.printAllSubArray(testArray);
